@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
