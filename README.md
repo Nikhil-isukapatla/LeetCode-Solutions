@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
@@ -43,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
