@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0835-image-overlap](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0018-4sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
