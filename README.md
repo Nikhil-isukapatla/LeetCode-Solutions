@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
