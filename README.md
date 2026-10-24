@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2409-count-days-spent-together](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [2409-count-days-spent-together](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
 | ------- |
