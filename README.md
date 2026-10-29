@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2409-count-days-spent-together](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
