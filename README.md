@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2409-count-days-spent-together](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
@@ -111,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,4 +135,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
