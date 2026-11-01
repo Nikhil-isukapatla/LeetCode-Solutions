@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
