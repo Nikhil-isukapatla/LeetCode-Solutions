@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
 |  |
@@ -168,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
