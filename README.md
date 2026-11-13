@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhil-isukapatla/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
